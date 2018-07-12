@@ -1,0 +1,53 @@
+body{
+    background-image:url("pic.jpg");	
+}
+
+img{border-radius:50%
+}
+.container{
+	background-color:cyan;
+	color:blue;
+	padding:5px;
+	border-radius:15px;
+	text-align:center;
+	font-size:larger;
+	marge:5px;
+	display:flex;
+}
+h3{
+    background-color:green;
+	color:blue;
+	padding:5px;
+	border-radius:15px;
+	text-align:center;
+	font-size:larger;
+	marge:15px;
+	display:flex;
+}
+p{
+    background-color:lightblue;
+	color:blue;
+	padding:5px;
+	border-radius:15px;
+	text-align:center;
+	font-size:larger;
+	marge:15px;
+	display:flex;
+}
+.content{
+	background-color:skyblue;
+	color:red;
+	color:white;
+	padding:5px;
+	border-radius:5px;
+	text-align:center;
+	marge:5px;
+}
+.side-pane{
+	background-color:teal;
+	color:white;
+	padding:5px;
+	border-radius:5px;
+	text-align:center;
+	marge:5px;
+}
